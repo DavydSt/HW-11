@@ -1,0 +1,9 @@
+p{
+    width: 350px;
+    height: 220px;
+    padding-top: 15px,10px,20px,10px;
+    border: 2px;
+    border-style: dotted;
+    background-color: green;
+}
+/* Поле зверху 10px, справа 15px, знизу 20px, зліва 25px */
